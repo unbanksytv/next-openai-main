@@ -1,0 +1,19 @@
+.msg_send {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.chat_feed{
+    margin: 10px;
+}
+
+.bot_info {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    text-align: center;
+}
